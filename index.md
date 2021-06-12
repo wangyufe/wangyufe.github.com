@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>汪宇飞</h1>
+      <p><b>本科生（考研中）</b></p>
+      <p><b>华北科技学院（现&应急管理大学）电子信息工程学院</b></p>
+      <p><b>邮箱：1449491529@qq.com</b></p>
+      <p><b>地址：安徽省黄山市黄山区，邮编245700</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/wangyufe/wangyufei/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### 姓名：汪宇飞
+#### 学历：本科毕业
+#### 学校：华北科技学院（现应急管理大学）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 近况
+1. 准备考研
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 研究方向
+-嵌入式软件开发
 
-```markdown
-Syntax highlighted code block
+### 荣誉奖项
+-奖学金
+-Robocon二等奖
+-Robomaster国家二等奖
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangyufe/wangyufei/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 项目研究
