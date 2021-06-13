@@ -38,9 +38,9 @@
 #### 雄关漫道真如铁 而今迈步从头越
 ### 其他
 ##### -<a href="https://space.bilibili.com/267575965" target="_blank">哔哩哔哩主页</a>
-<img src="/funny.jpeg" width="100%">    
+<img src="/funny.jpeg" width="50%">    
 
 ##### -<a href="https://user.qzone.qq.com/1449491529" target="_blank">QQ空间主页</a>
-<img src="/funny2.gif" width="40%"> 
+<img src="/funny2.gif" width="50%"> 
 
   
