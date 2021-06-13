@@ -22,13 +22,13 @@
 ### 近况
 1. 准备考研 <img src="/funny.jpeg" width="50%">   
 ### 研究方向
--嵌入式软件开发
+# -嵌入式软件开发
 
 ### 荣誉奖项
--奖学金
--Robocon二等奖
--Robomaster国家二等奖
+# -奖学金
+# -Robocon二等奖
+# -Robomaster国家二等奖
 
 ### 其他
--https://space.bilibili.com/267575965
--<a href="space.bilibili.com/267575965">哔哩哔哩主页</a>
+# -https://space.bilibili.com/267575965
+# -<a href="space.bilibili.com/267575965">哔哩哔哩主页</a>
