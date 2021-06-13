@@ -29,5 +29,5 @@
 -Robocon二等奖
 -Robomaster国家二等奖
 
-### 项目研究
-<a href="/index-en.html">英文版</a>
+### 其他
+<a href="/https://space.bilibili.com/267575965">哔哩哔哩主页</a>
