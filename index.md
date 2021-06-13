@@ -7,7 +7,7 @@
       <p><b>邮箱：1449491529@qq.com</b></p>
       <p><b>地址：安徽省黄山市黄山区，邮编245700</b></p>
     </td>
-    <td width="25%">
+    <td width="50%">
     <img src="/picture1.jpg" width="100%">     
     </td>
   </tr>
@@ -38,9 +38,9 @@
 #### 雄关漫道真如铁 而今迈步从头越
 ### 其他
 ##### -<a href="https://space.bilibili.com/267575965" target="_blank">哔哩哔哩主页</a>
-<img src="/funny.jpeg" width="50%">    
+<img src="/funny.jpeg" width="25%">    
 
 ##### -<a href="https://user.qzone.qq.com/1449491529" target="_blank">QQ空间主页</a>
-<img src="/funny2.gif" width="50%"> 
+<img src="/funny2.gif" width="15%"> 
 
-  
+## 注：此页面不断更新 
