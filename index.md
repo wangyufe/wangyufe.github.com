@@ -20,7 +20,10 @@
 
 
 ### 近况
-##### 1. 准备考研 <img src="/funny.jpeg" width="50%">   
+##### 1. 准备考研
+ </td>
+    <td width="25%">
+<img src="/funny.jpeg" width="50%">   
 ### 研究方向
 ##### -嵌入式软件开发
 
