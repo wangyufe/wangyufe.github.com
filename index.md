@@ -30,3 +30,4 @@
 -Robomaster国家二等奖
 
 ### 项目研究
+<a href="/index-en.html">英文版</a>
